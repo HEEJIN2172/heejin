@@ -5,9 +5,8 @@ const http    = require('http');
 const express = require('express');
 const server  = express();
 
-const serverPort = 1948;
-//1234
-
+const serverPort = 2172;
+/* */
 
 /************* Routing **************/
 //웹페이지의 세부 주소를 지정한다.
